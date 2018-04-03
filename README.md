@@ -1,2 +1,5 @@
 # Python for Beginner
-Python projects for beginners to practice.
+### Online Courses
+- [A Byte of Python](https://bop.mol.uno/)
+- [liaoxuefeng](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
+### Python Projects
